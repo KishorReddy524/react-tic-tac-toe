@@ -1,0 +1,22 @@
+ .container{
+    display: flex;
+    justify-content: center;
+ }
+ table td{
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    color: teal;
+    font-size: xx-large;
+}
+ .container h2{
+    color:rgb(3, 93, 18)
+ }
+ .winner button{
+    color: white;
+    background-color: black;
+    width: 150px;
+    height: 75px;
+    font-size: medium;
+    border-radius: 10%;
+ }
